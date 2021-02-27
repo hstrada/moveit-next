@@ -3,6 +3,8 @@
 ## Production app
 https://moveit-hstrada.vercel.app/
 
+<img src=".github/home.png" />
+
 ---
  
 ## 📦️ How to install the project
